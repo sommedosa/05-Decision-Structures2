@@ -4,7 +4,7 @@
 * Check first condition, and if it is true, check second condition 
 * if-elif-else statement: special version of a decision structure
 
-#### Rules for writing nested if statements:
+### Rules for writing nested if statements:
 * else clause should align with matching if clause
 * statements in each block must be consistently indented
 
@@ -16,7 +16,7 @@
 * and operator and or operator: binary operators, connect two Boolean expressions into a compound Boolean expression
 * not operator: unary operator, reverses the truth of its Boolean operand
 
-#### Short circuit evaluation: deciding the value of a compound Boolean expression after evaluating only one sub expression
+### Short circuit evaluation: deciding the value of a compound Boolean expression after evaluating only one sub expression
 * Performed by the or and and operators
   - For or operator: If left operand is true, compound expression is true. Otherwise, evaluate right operand
   - For and operator: If left operand is false, compound expression is false. Otherwise, evaluate right opera
