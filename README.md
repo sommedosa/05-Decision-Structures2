@@ -8,10 +8,10 @@
 * else clause should align with matching if clause
 * statements in each block must be consistently indented
 
-#### Relational operator: expression tested by if statement to determine if it is true or false
+### Relational operator: expression tested by if statement to determine if it is true or false
 * ==, >, < , >=, <=, != 
 
-#### Logical operators: operators that can be used to create complex Boolean expressions
+### Logical operators: operators that can be used to create complex Boolean expressions
 * and, or, not
 * and operator and or operator: binary operators, connect two Boolean expressions into a compound Boolean expression
 * not operator: unary operator, reverses the truth of its Boolean operand
@@ -29,12 +29,12 @@
 
 
 ## Decision Structures and Boolean Logic
-#### Decision structures, including:
+### Decision structures, including:
 * Single alternative decision structures: provides only one alternative path of execution
   - If condition is not true, exit the structure
 * Dual alternative decision structures: two possible paths of execution
   - One is taken if the condition is true, and the other if the condition is false
 * Nested decision structures: a decision structure can be nested inside another decision structure
-#### Relational operators and logical operators as used in creating Boolean expressions
-#### String comparison as used in creating Boolean expressions
-#### Boolean variables
+### Relational operators and logical operators as used in creating Boolean expressions
+### String comparison as used in creating Boolean expressions
+### Boolean variables
