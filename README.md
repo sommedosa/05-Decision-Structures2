@@ -29,12 +29,12 @@
 
 
 ## Decision Structures and Boolean Logic
-### Decision structures, including:
-* Single alternative decision structures: provides only one alternative path of execution
-  - If condition is not true, exit the structure
-* Dual alternative decision structures: two possible paths of execution
-  - One is taken if the condition is true, and the other if the condition is false
-* Nested decision structures: a decision structure can be nested inside another decision structure
-### Relational operators and logical operators as used in creating Boolean expressions
-### String comparison as used in creating Boolean expressions
-### Boolean variables
+* Decision structures, including:
+  * Single alternative decision structures: provides only one alternative path of execution
+    - If condition is not true, exit the structure
+  * Dual alternative decision structures: two possible paths of execution
+    - One is taken if the condition is true, and the other if the condition is false
+  * Nested decision structures: a decision structure can be nested inside another decision structure
+* Relational operators and logical operators as used in creating Boolean expressions
+* String comparison as used in creating Boolean expressions
+* Boolean variables
